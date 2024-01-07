@@ -25,8 +25,14 @@ I'm studying programming for around 6 months, I am focusing my studies on enhanc
 
 
 ## 👨‍💻 My GitHub Stats
-<div>
-<a href="http://www.github.com/felipemelozx">
-<img src="https://github-readme-stats.vercel.app/api?username=felipemelozx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="felipemelozx's GitHub stats" width="50%"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemelozx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  width="50%" /></a>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemelozx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemelozx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=felipemelozx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+
+###
