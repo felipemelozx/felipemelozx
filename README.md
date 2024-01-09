@@ -36,3 +36,6 @@ I'm studying programming for around 6 months, I am focusing my studies on enhanc
 
 
 ###
+<img src="https://raw.githubusercontent.com/felipemelozx/felipemelozx/output/snake.svg" alt="Snake animation" />
+
+###
