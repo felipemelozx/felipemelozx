@@ -6,7 +6,7 @@ Web Developer Front-End
 
 I'm studying programming for around 6 months, I am focusing my studies on enhancing skills in JavaScript, TypeScript, and React, with a particular emphasis on front-end web development.
 
-* ✉️  You can contact me at [felipemelozx@gmail.com] (mailto:felipemelozx@gmail.com)
+* ✉️  You can contact me at [felipemelozx@gmail.com](mailto:felipemelozx@gmail.com)
 * 🧠  I'm learning TypeScript and React
 * 🤝  I'm open to collaborating on projects web
 
