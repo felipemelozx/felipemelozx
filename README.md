@@ -14,7 +14,8 @@ I'm studying programming for around 6 months, I am focusing my studies on enhanc
 
 
 <div align="left">
-  
+ 
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="50" alt="javascript logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="50" alt="typescript logo"  />
@@ -29,6 +30,8 @@ I'm studying programming for around 6 months, I am focusing my studies on enhanc
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="50" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="50" alt="git logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
+  <img width="10" />
 </div>
 
   
