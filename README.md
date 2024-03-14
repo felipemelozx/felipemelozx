@@ -4,11 +4,11 @@ Hi 👋🏾 My name is Felipe Melo
 Web Developer Front-End
 -------------
 
-I'm studying programming for around 6 months, I am focusing my studies on enhancing skills in JavaScript, TypeScript, and React, with a particular emphasis on front-end web development.
+Conhecimento em HTML, CSS, JavaScript, E familiarizado com frameworks como Bootstrap, React.  Tenho interesse em aprender continuamente e aprimorar minhas habilidades em desenvolvimento web, incluindo técnicas de design responsivo, SEO e acessibilidade web. No futuro, pretendo me tornar um desenvolvedor web full-stack, dominando tanto o desenvolvimento front-end quanto o back-end.
 
-* ✉️  You can contact me at [felipemelozx@gmail.com](mailto:felipemelozx@gmail.com)
-* 🧠  I'm learning TypeScript and React
-* 🤝  I'm open to collaborating on projects web
+* ✉️  Você pode entrar em contato [felipemelozx@gmail.com](mailto:felipemelozx@gmail.com)
+* 🧠  eu estou aprendendo TypeScript and React
+* 🤝  Estou aberto a colaborar em projetos web
 
 ## 💻 Tech Stack:
 
@@ -42,9 +42,6 @@ I'm studying programming for around 6 months, I am focusing my studies on enhanc
 <div align="left">
   <a href="https://www.linkedin.com/in/felipemelozx/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/fellype.zx7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:felipemelozx@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
