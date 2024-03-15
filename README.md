@@ -4,7 +4,7 @@ Hi 👋🏾 My name is Felipe Melo
 Web Developer Front-End
 -------------
 
-Conhecimento em HTML, CSS, JavaScript, E familiarizado com frameworks como Bootstrap, React.  Tenho interesse em aprender continuamente e aprimorar minhas habilidades em desenvolvimento web, incluindo técnicas de design responsivo, SEO e acessibilidade web. No futuro, pretendo me tornar um desenvolvedor web full-stack, dominando tanto o desenvolvimento front-end quanto o back-end.
+Tenho interesse em aprender continuamente e aprimorar minhas habilidades em desenvolvimento web, incluindo técnicas de design responsivo, SEO e acessibilidade web. No futuro, pretendo me tornar um desenvolvedor web full-stack, dominando tanto o desenvolvimento front-end quanto o back-end.
 
 * ✉️  Você pode entrar em contato [felipemelozx@gmail.com](mailto:felipemelozx@gmail.com)
 * 🧠  eu estou aprendendo TypeScript and React
