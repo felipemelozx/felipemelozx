@@ -6,7 +6,6 @@ Web Developer Front-End
 
 Tenho interesse em aprender continuamente e aprimorar minhas habilidades em desenvolvimento web, incluindo técnicas de design responsivo, SEO e acessibilidade web. No futuro, pretendo me tornar um desenvolvedor web full-stack, dominando tanto o desenvolvimento front-end quanto o back-end.
 
-* ✉️  Você pode entrar em contato [felipemelozx@gmail.com](mailto:felipemelozx@gmail.com)
 * 🧠  eu estou aprendendo TypeScript and React
 * 🤝  Estou aberto a colaborar em projetos web
 
@@ -42,9 +41,6 @@ Tenho interesse em aprender continuamente e aprimorar minhas habilidades em dese
 <div align="left">
   <a href="https://www.linkedin.com/in/felipemelozx/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:felipemelozx@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
