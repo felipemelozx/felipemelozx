@@ -15,7 +15,7 @@
 <h3 align="left">🛠 Language and tools</#h3>
 
 ##
-<img align="right" height="150" src="https://media1.tenor.com/m/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif"  />
+<img align="right" height="100" src="https://media1.tenor.com/m/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
@@ -55,7 +55,6 @@
 
 ## <h3>📱Socials</h3>
 
-##
 <div align="left">
   <a href="https://www.linkedin.com/in/felipemelozx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
