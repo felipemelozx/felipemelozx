@@ -5,16 +5,8 @@
 
 <p align="left">Olá! 👋 Eu sou Felipe Melo, um desenvolvedor iniciante focado em backend e apaixonado por Java Spring. Estou no início da minha jornada no mundo da programação, determinado a aprender e crescer cada dia mais.</p>
 
-<table alight = center>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=felipemelozx&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-Br&hide_border=true&card_width=350" height="156"  alt="stats graph" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemelozx&locale=pt-Br&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=true&card_width=400" height="150" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+ ![stats graph](https://github-readme-stats.vercel.app/api?username=felipemelozx&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-Br&hide_border=true&card_width=400)  ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=felipemelozx&locale=pt-Br&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=true&card_width=400) 
+
 
 
 <img align="right" height="150" src="https://media1.tenor.com/m/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif"  />
