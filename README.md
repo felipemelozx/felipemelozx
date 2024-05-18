@@ -9,13 +9,13 @@
 
 
 
-<img align="right" height="150" src="https://media1.tenor.com/m/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif"  />
+
 
 
 <h3 align="left">🛠 Language and tools</#h3>
 
 ##
-
+<img align="right" height="150" src="https://media1.tenor.com/m/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif"  />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
