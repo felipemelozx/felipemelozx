@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
