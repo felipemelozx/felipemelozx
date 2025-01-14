@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Olá! 👋 Eu sou Felipe Melo, um desenvolvedor iniciante focado em backend e apaixonado por Java Spring. Estou no início da minha jornada no mundo da programação, determinado a aprender e crescer cada dia mais.</p>
+<p align="left">Olá! 👋 Eu sou Felipe Melo, um desenvolvedor iniciante focado no backend com Java e Spring. Estou no início da minha jornada no mundo da programação, determinado a aprender e crescer cada dia mais.</p>
 
  ![stats graph](https://github-readme-stats.vercel.app/api?username=felipemelozx&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-Br&hide_border=true&card_width=400)  ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=felipemelozx&locale=pt-Br&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=true&card_width=400) 
 
@@ -64,12 +64,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/felipemelozx/felipemelozx/output/snake.svg" alt="Snake animation" />
-
-###
 
