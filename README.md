@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
+ <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
