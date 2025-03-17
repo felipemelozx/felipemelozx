@@ -41,33 +41,35 @@
 
 ###
 
-<div align="left">
+<div align="left" dir="auto">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo" />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven logo" />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular logo" />
-  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React.Js logo" />
+
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo" />
 </div>
 
