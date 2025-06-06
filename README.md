@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=felipemelozx.felipemelozx" alt="Visitor Count Badge" />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
