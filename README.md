@@ -22,12 +22,16 @@
 
 ###
 
-<p align="left">
-  I'm Felipe M., a software developer from Brazil.<br><br>
-  - 🔭 Currently working with Java and the Spring Framework.<br>
-  - 📚 Learning: Java, Spring, AWS, Docker, and more.<br>
- ⚡ Hobbies: Reading books, playing basketball, soccer.
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <p align="left" style="max-width: 400px;">
+    I'm Felipe M., a Brazilian software developer passionate about backend technologies.<br><br>
+    - 💻 Working with Java and Spring Framework.<br>
+    - 📘 Learning AWS, Docker, and system design.<br>
+    - 🏀 Hobbies: Reading, basketball, and soccer.
+  </p>
+</div>
+
 
 ###
 
