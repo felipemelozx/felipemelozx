@@ -16,7 +16,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
   <p align="left" style="max-width: 400px;">
-    I'm Felipe M., a Brazilian software developer passionate about backend technologies.<br><br>
+    I'm Felipe M., a Brazilian software developer who loves working with backend technologies and building solid, efficient systems.<br><br>
     - 💻 Working with Java and Spring Framework.<br>
     - 📘 Learning AWS, Docker, and system design.<br>
     - 🏀 Hobbies: Reading, basketball, and soccer.
@@ -37,12 +37,13 @@
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven logo" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions logo" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo"/>    
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
 </div>
 
 ###
