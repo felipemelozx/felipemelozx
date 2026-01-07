@@ -79,32 +79,52 @@
 
 <!-- Add your projects below - replace the placeholder examples with your actual projects -->
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="left">TrackMoney 💰</h3>
-      <p align="left">
-        <a href="https://github.com/felipemelozx/TrackMoney" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Repo&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="GitHub Repo" />
-        </a>
-        <a href="https://trackmoney.fun" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Live%20Demo&logo=global&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Live Demo" />
-        </a>
-      </p>
-      <p align="left">Sistema completo de gerenciamento financeiro pessoal com arquitetura enterprise, JWT authentication, Redis cache, e CI/CD automatizado. Aplicação production-ready com testes abrangentes e monitoramento.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20" alt="Java" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" height="20" alt="Spring Security" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="20" alt="Redis" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20" alt="Docker" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="20" alt="JWT" />
-        <img src="https://img.shields.io/badge/JaCoCo-00Bfa5?style=for-the-badge&logo=opengamma&logoColor=white" height="20" alt="JaCoCo" />
-        <img src="https://img.shields.io/badge/SonarQube-5196CF?style=for-the-badge&logo=sonarqube&logoColor=white" height="20" alt="SonarQube" />
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- TrackMoney -->
+<h3 align="left">TrackMoney 💰</h3>
+<p align="left">
+  <a href="https://github.com/felipemelozx/TrackMoney" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Repo&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="GitHub Repo" />
+  </a>
+  <a href="https://trackmoney.fun" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Live%20Demo&logo=global&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Live Demo" />
+  </a>
+</p>
+<p align="left">Sistema completo de gerenciamento financeiro pessoal com arquitetura enterprise, JWT authentication, Redis cache, e CI/CD automatizado. Aplicação production-ready com testes abrangentes e monitoramento.</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" height="20" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="20" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20" alt="Docker" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="20" alt="JWT" />
+  <img src="https://img.shields.io/badge/JaCoCo-00Bfa5?style=for-the-badge&logo=opengamma&logoColor=white" height="20" alt="JaCoCo" />
+  <img src="https://img.shields.io/badge/SonarQube-5196CF?style=for-the-badge&logo=sonarqube&logoColor=white" height="20" alt="SonarQube" />
+</p>
+
+###
+
+<!-- InkTrack API -->
+<h3 align="left">InkTrack API 📚</h3>
+<p align="left">
+  <a href="https://github.com/felipemelozx/InkTrack-api" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Repo&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="GitHub Repo" />
+  </a>
+  <a href="https://inktrack.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Live%20Demo&logo=global&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Live Demo" />
+  </a>
+</p>
+<p align="left">Comprehensive book reading management API built with Hexagonal Architecture. Track personal library, reading progress, notes, sessions, and analyze reading habits with detailed metrics and analytics. Features JWT authentication, clean code practices, and CI/CD automation.</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" height="20" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white" height="20" alt="Flyway" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20" alt="Docker" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="20" alt="JWT" />
+  <img src="https://img.shields.io/badge/JaCoCo-00Bfa5?style=for-the-badge&logo=opengamma&logoColor=white" height="20" alt="JaCoCo" />
+  <img src="https://img.shields.io/badge/SonarQube-5196CF?style=for-the-badge&logo=sonarqube&logoColor=white" height="20" alt="SonarQube" />
+</p>
 
 ###
