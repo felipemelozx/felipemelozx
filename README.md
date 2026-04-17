@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/felipemelozx/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://felipemelozx.blog">
+  <a href="https://felipemelozx.com">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=global&logoColor=white" alt="Blog"/>
   </a>
   <a href="https://github.com/felipemelozx?tab=repositories">
