@@ -109,10 +109,4 @@ Backend developer focused on **Java & Spring ecosystem**, building production-re
   </table>
 </details>
 
----
 
-### 🎵 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jigghkmwuxbpr5udfqhcojqwii&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
-</p>
