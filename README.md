@@ -100,10 +100,10 @@ Backend developer focused on **Java & Spring ecosystem**, building production-re
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=felipemelozx&theme=midnight-purple&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=felipemelozx&theme=midnight-purple&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemelozx&layout=compact&theme=midnight-purple&count_private=true&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=felipemelozx&layout=compact&theme=midnight-purple&count_private=true&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
