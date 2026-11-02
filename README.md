@@ -3,7 +3,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://felipemelozx.com">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=global&logoColor=white" alt="Blog"/>
+    <img src="https://img.shields.io/badge/Portfolio%20%26%20Blog-000000?style=for-the-badge&logo=global&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:felipemelozx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/felipemelozx?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
@@ -13,100 +16,53 @@
 ###
 
 <h1 align="center">Felipe Melo 👨‍💻</h1>
-<h3 align="center">Backend Developer | Java & Spring Ecosystem</h3>
+<h3 align="center">Software Engineer</h3>
+<p align="center">
+  <b>Backend Developer | Java & Spring Ecosystem</b>
+</p>
 
 ###
 
-Backend developer focused on **Java & Spring ecosystem**, building production-ready applications with clean architecture and scalable solutions. Currently deepening knowledge in distributed systems and cloud architecture (AWS).
+<p align="center">
+  <b>Backend developer — always coding, always building, always studying</b> 💻
+</p>
+<p align="center">
+
+```java
+while (true) {
+    code();
+    build();
+    study();
+}
+```
+
+</p>
+
+###
+
+### 🚀 Open Source Contributions
+
+- **[BuildCLI](https://github.com/BuildCLI/BuildCLI)** *(20 merged PRs)* — Developer CLI tool for the Java ecosystem. Implemented full Gradle support and dynamic toolchain detection, refactored process execution, and expanded automated testing coverage with **JUnit 5 and Mockito**.
+- **[ShoppMate](https://github.com/omatheusmesmo/ShoppMate)** *(2 merged PRs)* — Eliminated critical **IDOR** vulnerability by redesigning authorization with `@AuthenticationPrincipal`, added comprehensive security test suites using **Testcontainers**, and migrated token signing to **HMAC-SHA256/JWS**.
 
 ###
 
 ### 🛠 Tech Stack
 
-[![SkillIcons](https://skillicons.dev/icons?i=java,spring,postgresql,redis,docker,aws,maven,gradle,git,linux,bash)](https://skillicons.dev)
+- **Languages & Frameworks:** Java 17/21, Spring Boot (3/4), Spring Security 6, Spring Data JPA, Bean Validation, MapStruct, OpenAPI (Swagger).
+- **Databases & Caching:** PostgreSQL, Redis, Flyway, JPQL.
+- **Testing & Quality:** JUnit 5, Mockito, Testcontainers, JaCoCo, SonarCloud, Clean Architecture, SOLID.
+- **DevOps & Tooling:** Docker, Docker Compose, GitHub Actions (CI/CD), Linux, Bash, Maven, Gradle, Git.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,githubactions,linux,bash,maven,gradle,git" alt="Tech Stack"/>
+</p>
 
 ###
 
-### 🔥 Featured Projects
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://github.com/felipemelozx/TrackMoney">
-  <img src="assets/trackmoney-dashboard.png" alt="TrackMoney" width="400" style="border-radius: 8px;"/>
-</a>
-
-**TrackMoney** 💰
-<br>
-<em>Enterprise financial management</em>
-
-<br>
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/felipemelozx/TrackMoney)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/felipemelozx/TrackMoney)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/felipemelozx/TrackMoney)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/felipemelozx/TrackMoney)
-
-<br>
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/felipemelozx/TrackMoney" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Repo&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="GitHub Repo" />
-  </a>
-  <a href="https://trackmoney.fun" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Live%20Demo&logo=global&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Live Demo" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=felipemelozx&theme=midnight-purple&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=felipemelozx&layout=compact&theme=midnight-purple&count_private=true&hide_border=true" alt="Top Languages"/>
 </p>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/felipemelozx/InkTrack-api">
-  <img src="assets/inktrack-dashboard.png" alt="InkTrack" width="400" style="border-radius: 8px;"/>
-</a>
-
-**InkTrack API** 📚
-<br>
-<em>Reading management with Hexagonal Architecture</em>
-
-<br>
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/felipemelozx/InkTrack-api)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/felipemelozx/InkTrack-api)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/felipemelozx/InkTrack-api)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/felipemelozx/InkTrack-api)
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/felipemelozx/InkTrack-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Repo&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="GitHub Repo" />
-  </a>
-  <a href="https://inktrack.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Live%20Demo&logo=global&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Live Demo" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<details>
-  <summary>📊 GitHub Stats (click to expand)</summary>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=felipemelozx&theme=midnight-purple&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=felipemelozx&layout=compact&theme=midnight-purple&count_private=true&hide_border=true" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</details>
-
-
