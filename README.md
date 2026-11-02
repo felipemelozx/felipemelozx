@@ -5,9 +5,6 @@
   <a href="https://felipemelozx.com">
     <img src="https://img.shields.io/badge/Portfolio%20%26%20Blog-000000?style=for-the-badge&logo=global&logoColor=white" alt="Blog"/>
   </a>
-  <a href="mailto:felipemelozx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/felipemelozx?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
